@@ -1,0 +1,480 @@
+{
+  "demo": false,
+  "testOnly": true,
+  "meta": {
+    "title": "TEST SITE · Alpha Roofing | Roofing in Alphaton, ZZ",
+    "description": "Alpha Roofing: roof replacement, roof repair and storm damage for homes and businesses in Alphaton, Test North and Test South. Free estimates.",
+    "robots": "noindex,nofollow,noarchive"
+  },
+  "brand": {
+    "accent": "#d2432c",
+    "accentDeep": "#b5361f",
+    "section": "#cf422c"
+  },
+  "business": {
+    "name": "Alpha Roofing",
+    "shortName": "Alpha Roofing",
+    "wordmark": "Alpha Roofing",
+    "phone": "(000) 010-0001",
+    "phoneE164": "+10000100001",
+    "email": "office@alpha-roofing.invalid",
+    "address": "1 Test Road, Alphaton, ZZ 00001",
+    "hours": "Mon to Fri · 8:00 to 5:00",
+    "legal": "TEST SITE · fictional business, not a real company",
+    "social": []
+  },
+  "nav": {
+    "services": "Services",
+    "work": "Reviews",
+    "areas": "Areas",
+    "crew": "Team",
+    "process": "Process",
+    "faq": "FAQ",
+    "cta": "Free estimate"
+  },
+  "drawer": {
+    "title": "What we do",
+    "link": "All services →",
+    "areasTitle": "Areas we serve",
+    "cards": [
+      {
+        "img": "service-roof-replacement",
+        "badge": "Replacement",
+        "title": "Roof replacement",
+        "meta": "Test service one"
+      },
+      {
+        "img": "service-roof-repair",
+        "badge": "Repair",
+        "title": "Roof repair",
+        "meta": "Test service two"
+      },
+      {
+        "img": "ba-storm-before",
+        "badge": "Storm",
+        "title": "Storm damage",
+        "meta": "Test service three"
+      },
+      {
+        "img": "service-windows",
+        "badge": "Gutters",
+        "title": "Gutters",
+        "meta": "Test service four"
+      }
+    ],
+    "promo": {
+      "kicker": "Free estimate",
+      "title": "Get a free roof inspection",
+      "line": "Your roof is inspected and photographed, then you get a detailed proposal.",
+      "button": "Book it"
+    }
+  },
+  "hero": {
+    "eyebrow": "Roofing contractor · Alphaton, ZZ",
+    "title": "Test site<br /><mark class=\"hl\">Alpha.</mark>",
+    "lead": "Roof replacement, roof repair and storm damage for homes in Alphaton, Test North and Test South.",
+    "cta": "Book a free estimate",
+    "cta2": "See services",
+    "meta": "Test 5.0/5 · 12 reviews · Licensed, insured & bonded · Est. 2015",
+    "chips": [
+      [
+        "all",
+        "All"
+      ],
+      [
+        "roof",
+        "Roofing"
+      ],
+      [
+        "storm",
+        "Storm & claims"
+      ],
+      [
+        "other",
+        "More"
+      ]
+    ],
+    "countLabel": "services",
+    "scrollHint": "Scroll to fly in",
+    "cursorLabel": "View service",
+    "featuredLabel": "Featured service",
+    "diveCta": "All services"
+  },
+  "jobs": [
+    {
+      "k": "roof",
+      "label": "Replacement",
+      "em": "Free est.",
+      "type": null,
+      "town": "Alphaton, ZZ",
+      "title": "Roof replacement",
+      "img": "service-roof-replacement",
+      "line": "Fictional description of a roof replacement service, for testing only.",
+      "fact": "Free estimate",
+      "meta": "licensed · insured · bonded",
+      "at": [
+        1240,
+        900
+      ]
+    },
+    {
+      "k": "roof",
+      "label": "Repair",
+      "em": null,
+      "type": null,
+      "town": "Alphaton, ZZ",
+      "title": "Roof repair",
+      "img": "service-roof-repair",
+      "fact": "Free estimate",
+      "meta": "licensed · insured · bonded",
+      "at": [
+        760,
+        520
+      ]
+    },
+    {
+      "k": "storm",
+      "label": "Storm",
+      "em": null,
+      "type": null,
+      "town": "Alphaton, ZZ",
+      "title": "Storm damage",
+      "img": "ba-storm-before",
+      "fact": "Free estimate",
+      "meta": "licensed · insured · bonded",
+      "at": [
+        1820,
+        1300
+      ]
+    },
+    {
+      "k": "other",
+      "label": "Gutters",
+      "em": null,
+      "type": null,
+      "town": "Alphaton, ZZ",
+      "title": "Gutters",
+      "img": "service-windows",
+      "fact": "Free estimate",
+      "meta": "licensed · insured · bonded",
+      "at": [
+        560,
+        1290
+      ]
+    }
+  ],
+  "stats": {
+    "eyebrow": "01 · Alpha Roofing",
+    "title": "Roofing in<br /><mark>Alphaton.</mark>",
+    "body": "Alpha Roofing serves Alphaton, Test North and Test South.",
+    "cta": "Get a free estimate",
+    "signs": [
+      {
+        "value": "2015",
+        "label": "established"
+      },
+      {
+        "value": "5.0",
+        "label": "Test rating"
+      },
+      {
+        "value": "12",
+        "label": "Test reviews"
+      },
+      {
+        "count": 10,
+        "small": "yr",
+        "label": "test warranty"
+      }
+    ],
+    "tickerLabel": "Why Alpha Roofing",
+    "tickerBadge": null,
+    "ticker": [
+      [
+        "TEST SITE",
+        ""
+      ],
+      [
+        "Fictional business",
+        ""
+      ],
+      [
+        "Free estimates (test)",
+        ""
+      ],
+      [
+        "Licensed (test)",
+        ""
+      ]
+    ]
+  },
+  "services": {
+    "eyebrow": "02 · Services",
+    "title": "What we<br /><mark>do.</mark>",
+    "cta": "Free estimate",
+    "countLabel": "services",
+    "linkLabel": "Book a free estimate",
+    "tabs": [
+      [
+        "all",
+        "All"
+      ],
+      [
+        "roof",
+        "Roofing"
+      ],
+      [
+        "storm",
+        "Storm & claims"
+      ],
+      [
+        "other",
+        "More"
+      ]
+    ],
+    "items": [
+      {
+        "f": "roof",
+        "big": true,
+        "tag": "Replacement",
+        "img": "service-roof-replacement",
+        "title": "Roof replacement",
+        "sub": "Test service one",
+        "line": "Fictional description of a roof replacement service, for testing only.",
+        "specs": "Test spec",
+        "pin": [
+          "Alphaton",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "roof",
+        "big": false,
+        "tag": "Repair",
+        "img": "service-roof-repair",
+        "title": "Roof repair",
+        "sub": "Test service two",
+        "line": null,
+        "specs": "Test spec",
+        "pin": [
+          "Alphaton",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "storm",
+        "big": false,
+        "tag": "Storm",
+        "img": "ba-storm-before",
+        "title": "Storm damage",
+        "sub": "Test service three",
+        "line": null,
+        "specs": "Test spec",
+        "pin": [
+          "Alphaton",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "other",
+        "big": false,
+        "tag": "Gutters",
+        "img": "service-windows",
+        "title": "Gutters",
+        "sub": "Test service four",
+        "line": null,
+        "specs": "Test spec",
+        "pin": [
+          "Alphaton",
+          "free estimate"
+        ]
+      }
+    ]
+  },
+  "areas": {
+    "eyebrow": "03 · Areas we serve",
+    "title": "Alphaton and<br /><mark>nearby.</mark>",
+    "body": "Based in Alphaton. Pick a town to see it on the map.",
+    "cardLink": "Book a free estimate →",
+    "center": [
+      30,
+      46
+    ],
+    "items": [
+      {
+        "n": "Alphaton",
+        "c": "ZZ",
+        "x": 30,
+        "y": 46,
+        "img": "service-roof-replacement",
+        "badge": "Our office",
+        "stats": null,
+        "note": "1 Test Road, Alphaton, ZZ 00001"
+      },
+      {
+        "n": "Test North",
+        "c": "ZZ",
+        "x": 20,
+        "y": 20,
+        "img": "service-roof-repair",
+        "badge": "Service area",
+        "stats": null,
+        "note": "Free inspection and estimate in Test North."
+      },
+      {
+        "n": "Test South",
+        "c": "ZZ",
+        "x": 26,
+        "y": 74,
+        "img": "ba-storm-before",
+        "badge": "Service area",
+        "stats": null,
+        "note": "Free inspection and estimate in Test South."
+      }
+    ]
+  },
+  "estimate": {
+    "eyebrow": "04 · Free estimate",
+    "title": "Tell us about<br /><mark class=\"dark\">your roof.</mark>",
+    "body": "Share a few details and we will follow up about your roof.",
+    "cardTitle": "Quick request",
+    "addressPlaceholder": "Street address",
+    "resultLabel": "Your roof",
+    "basis": "Free inspection in {town}",
+    "pricing": null,
+    "noPriceNote": "Material, roof height and pitch all affect the price. You get an exact price after an inspection, with no guesswork.",
+    "cta": "Book my free estimate",
+    "foot": "Free estimates"
+  },
+  "process": {
+    "eyebrow": "How it works · 3 steps",
+    "title": "3 steps,<br /><mark>start to finish.</mark>",
+    "counterLabel": "Step",
+    "steps": [
+      {
+        "t": "Test step one",
+        "x": "Fictional step for testing only.",
+        "img": "ba-storm-before",
+        "vf": "Test step one",
+        "pin": [
+          "Test",
+          "one"
+        ],
+        "live": "Test live one",
+        "chip": "Test chip one",
+        "flap": "ONE"
+      },
+      {
+        "t": "Test step two",
+        "x": "Fictional step for testing only.",
+        "img": "ba-worn-before",
+        "vf": "Test step two",
+        "pin": [
+          "Test",
+          "two"
+        ],
+        "live": "Test live two",
+        "chip": "Test chip two",
+        "flap": "TWO"
+      },
+      {
+        "t": "Test step three",
+        "x": "Fictional step for testing only.",
+        "img": "service-roof-repair",
+        "vf": "Test step three",
+        "pin": [
+          "Test",
+          "three"
+        ],
+        "live": "Test live three",
+        "chip": "Test chip three",
+        "flap": "THREE"
+      }
+    ]
+  },
+  "crew": {
+    "show": false,
+    "items": []
+  },
+  "stories": {
+    "show": true,
+    "eyebrow": "05 · Reviews",
+    "title": "What customers<br /><mark>say.</mark>",
+    "plateTitle": "5.0",
+    "photoNote": "Illustrative photo",
+    "items": [
+      {
+        "addr": "Test job",
+        "town": "Customer review",
+        "img": "ba-storm-after",
+        "days": "Test 12",
+        "stars": null,
+        "q": "TEST REVIEW. Fictional text used only to check the reviews layout.",
+        "name": "Test Reviewer A",
+        "where": ""
+      },
+      {
+        "addr": "Test job",
+        "town": "Customer review",
+        "img": "service-roof-replacement",
+        "days": "Test 12",
+        "stars": null,
+        "q": "TEST REVIEW. A second fictional text used only to check the slider.",
+        "name": "Test Reviewer B",
+        "where": ""
+      }
+    ]
+  },
+  "season": {
+    "show": false,
+    "towns": {},
+    "posts": []
+  },
+  "faq": {
+    "eyebrow": "06 · Questions",
+    "title": "Questions,<br /><mark>answered.</mark>",
+    "contactLead": "Didn’t see your question? Call",
+    "contactJoin": "or email",
+    "contactTail": "Open Mon to Fri, 8:00 to 5:00.",
+    "cta": "Call us",
+    "tabs": [
+      [
+        "all",
+        "All"
+      ],
+      [
+        "test",
+        "Test"
+      ]
+    ],
+    "items": [
+      {
+        "g": "test",
+        "q": "Is this a real company?",
+        "a": "No. Alpha Roofing is a fictional business used only for a local pipeline test."
+      }
+    ]
+  },
+  "book": {
+    "eyebrow": "Free estimate",
+    "title": "Book a<br /><mark>roof visit.</mark>",
+    "body": "Choose a service and a time that suits you, and the team will be in touch to confirm.",
+    "cardTitle": "Book a free estimate",
+    "cardNote": "About 60 seconds",
+    "times": [
+      "9:00 am",
+      "11:00 am",
+      "1:00 pm",
+      "3:00 pm"
+    ],
+    "submit": "Request visit",
+    "thanks": "Thanks, <b>{name}</b>. This is a preview, so the form doesn't send yet. Call (000) 010-0001 to book.",
+    "under": "Test 5.0/5 · 12 reviews · Licensed, insured & bonded · Est. 2015",
+    "callPrefix": "Or call"
+  },
+  "footer": {
+    "officeLabel": "Our office",
+    "companyTitle": "Company",
+    "newsletter": null
+  }
+}
